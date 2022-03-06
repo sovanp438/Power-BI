@@ -3,8 +3,8 @@
 # Problem Statement 
 1.	To track the KPIs of a 40-member team
 2.	Parameters
-a.	OTD: On Time Delivery
-b.	FTR: First Time Right
+* OTD: On Time Delivery
+* FTR: First Time Right
 c.	Effort Variance
 d.	Revenue
 e.	Revenue per Team Member

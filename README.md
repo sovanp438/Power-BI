@@ -41,7 +41,8 @@
 
 
 
-Data Model: ![alt text](https://github.com/sovanp438/Power-BI/blob/8b040536792c2c0ecb6b19be2481ba79897b1340/Images/Data_Model.png "Logo Title Text 1")
+                                                                     Data Model:
+![alt text](https://github.com/sovanp438/Power-BI/blob/8b040536792c2c0ecb6b19be2481ba79897b1340/Images/Data_Model.png "Logo Title Text 1")
 
 ![](RackMultipart20220306-4-bcm388_html_7caef3124d3d3d6f.png)
 

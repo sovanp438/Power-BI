@@ -1,13 +1,14 @@
 # Power-BI
 
 # Problem Statement 
-1. To track the KPIs of a 40-member team
-2. Parameters
-o	OTD: On Time Delivery
-o	FTR: First Time Right
-o	Effort Variance
-o	Revenue
-o	Revenue per Team Member
+1.	To track the KPIs of a 40-member team
+2.	Parameters
+a.	OTD: On Time Delivery
+b.	FTR: First Time Right
+c.	Effort Variance
+d.	Revenue
+e.	Revenue per Team Member
+
 
 # Approach
 •	An excel based tracker built and was shared with each team member

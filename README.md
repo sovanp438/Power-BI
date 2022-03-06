@@ -2,11 +2,12 @@ Problem Statement
 
 1. To track the KPIs of a 40-member team
 2. Parameters
-  1. OTD: On Time Delivery
-  2. FTR: First Time Right
-  3. Effort Variance
-  4. Revenue
-  5. Revenue per Team Member
+
+- OTD: On Time Delivery
+- FTR: First Time Right
+- Effort Variance
+- Revenue
+- Revenue per Team Member
 
 Approach
 
@@ -39,11 +40,11 @@ Data Modelling
 - Unused tables are hidden
 - Columns within a table are grouped into a folder
 
-![](RackMultipart20220306-4-10ddf1g_html_f35a37057439dac7.png)
+![](RackMultipart20220306-4-qz4rhr_html_f35a37057439dac7.png)
 
 Data Model
 
-![](RackMultipart20220306-4-10ddf1g_html_7caef3124d3d3d6f.png)
+![](RackMultipart20220306-4-qz4rhr_html_7caef3124d3d3d6f.png)
 
 Folder Structure
 
@@ -62,6 +63,6 @@ DAX
   - LOOKUPVALUE()
 - Legitimacy of &#39;complex&#39; measures were checked using matrix first
 
-![](RackMultipart20220306-4-10ddf1g_html_821da9496e7a72b1.png)
+![](RackMultipart20220306-4-qz4rhr_html_821da9496e7a72b1.png)
 
 DAX Formatting

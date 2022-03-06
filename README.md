@@ -1,8 +1,8 @@
 # Power-BI
 
 # Problem Statement 
-•	To track the KPIs of a 40-member team
-•	Parameters
+1. To track the KPIs of a 40-member team
+2. Parameters
 o	OTD: On Time Delivery
 o	FTR: First Time Right
 o	Effort Variance

@@ -1,4 +1,4 @@
-Problem Statement
+# Problem Statement
 
 - To track the KPIs of a 40-member team
 - Parameters
@@ -8,7 +8,7 @@ Problem Statement
   - Revenue
   - Revenue per Team Member
 
-Approach
+# Approach
 
 - An excel based tracker built and was shared with each team member
 - The excel tracked the following
@@ -20,7 +20,7 @@ Approach
 - The data was cleaned and modelled in a Star Schema
 - The report was built with intuitive visual and was used by the management the performance of the project and its members
 
-Data Transformation
+# Data Transformation
 
 - The file locations are parametrized
 - Correct data types are used in each column to facilitate better compression
@@ -30,7 +30,7 @@ Data Transformation
 - &quot;Column Quality&quot; was used to check for errors
 - Dimensional and fact tables are segregated in folders
 
-Data Modelling
+# Data Modelling
 
 - Star Schema implemented
 - Many to Many relationships are avoided
@@ -41,13 +41,13 @@ Data Modelling
 
 ![](RackMultipart20220306-4-bcm388_html_f35a37057439dac7.png)
 
-Data Model
+# Data Model
 
 ![](RackMultipart20220306-4-bcm388_html_7caef3124d3d3d6f.png)
 
 Folder Structure
 
-DAX
+# DAX
 
 - Variables are implemented to reduce the query time
 - DAX is formatted using a website from SQLBI daxformatter.com
@@ -64,4 +64,4 @@ DAX
 
 ![](RackMultipart20220306-4-bcm388_html_821da9496e7a72b1.png)
 
-DAX Formatting
+# DAX Formatting

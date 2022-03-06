@@ -1,12 +1,12 @@
 # Project Management Dashboard
 
-- To track the KPIs of a 40-member team
+- To track the KPIs of a 40+ member team
 - Parameters
   - OTD: On Time Delivery
   - FTR: First Time Right
   - Effort Variance
   - Revenue
-  - Revenue per Team Member
+  - Revenue per Team Member etc.
 
 ## Overall KPI
 
@@ -19,13 +19,16 @@
 
 # Approach
 
-- An excel based tracker built and was shared with each team member
+- An excel based tracker was built and shared with each team member
 - The excel tracked the following
-  - Tasks (with a bill rate and location linked to it)
+  - Tasks 
   - Delivery Date
   - Efforts in terms of hours/day
   - Employee Details
-- The Power BI file pulled data from all these excel sheets stored in a cloud location
+  - Bill Rate
+  - Location
+  - Domain etc.
+- The Power BI file pulled data from all these excel sheets stored in a OneDrive Location
 - The data was cleaned and modelled in a Star Schema
 - The report was built with intuitive visual and was used by the management the performance of the project and its members
 
@@ -43,7 +46,7 @@
 
 - Star Schema implemented
 - Many to Many relationships are avoided
-- Cross filtering is avoided
+- Cross filter both direction is avoided
 - Inactive relationships are used using DAX
 - Unused tables are hidden
 - Columns within a table are grouped into a folder

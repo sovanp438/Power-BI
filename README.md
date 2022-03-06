@@ -71,6 +71,6 @@
 
 
 
-                                                                     DAX Dormatting
+                                                                     DAX Formatting
                                                                     ----------------
 ![alt text](https://github.com/sovanp438/Power-BI/blob/6408d8d628536ed062e4e8abb995c478dce8bb14/Images/DAX%20Formatting.png "")

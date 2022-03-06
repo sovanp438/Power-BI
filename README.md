@@ -1,60 +1,67 @@
-# Power-BI
+Problem Statement
 
-# Problem Statement 
-1.	To track the KPIs of a 40-member team
-2.	Parameters
-....1. OTD: On Time Delivery
-  * FTR: First Time Right
-  c.	Effort Variance
-  d.	Revenue
-  e.	Revenue per Team Member
+1. To track the KPIs of a 40-member team
+2. Parameters
+  1. OTD: On Time Delivery
+  2. FTR: First Time Right
+  3. Effort Variance
+  4. Revenue
+  5. Revenue per Team Member
 
+Approach
 
-# Approach
-•	An excel based tracker built and was shared with each team member
-•	The excel tracked the following
-o	Tasks (with a bill rate and location linked to it)
-o	Delivery Date
-o	Efforts in terms of hours/day
-o	Employee Details
-•	The Power BI file pulled data from all these excel sheets stored in a cloud location
-•	The data was cleaned and modelled in a Star Schema
-•	The report was built with intuitive visual and was used by the management the performance of the project and its members
+- An excel based tracker built and was shared with each team member
+- The excel tracked the following
+  - Tasks (with a bill rate and location linked to it)
+  - Delivery Date
+  - Efforts in terms of hours/day
+  - Employee Details
+- The Power BI file pulled data from all these excel sheets stored in a cloud location
+- The data was cleaned and modelled in a Star Schema
+- The report was built with intuitive visual and was used by the management the performance of the project and its members
 
-# Data Transformation 
-•	The file locations are parametrized
-•	Correct data types are used in each column to facilitate better compression
-•	Date table was created in Power Query to ensure better performance
-o	Calendar Table
-•	Non-Functional Columns were removed to reduce data size
-•	“Column Quality” was used to check for errors
-•	Dimensional and fact tables are segregated in folders 
+Data Transformation
 
-# Data Modelling
-•	Star Schema implemented
-•	Many to Many relationships are avoided
-•	Cross filtering is avoided
-•	Inactive relationships are used using DAX
-•	Unused tables are hidden
-•	Columns within a table are grouped into a folder
+- The file locations are parametrized
+- Correct data types are used in each column to facilitate better compression
+- Date table was created in Power Query to ensure better performance
+  - [Calendar Table](https://radacad.com/all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi)
+- Non-Functional Columns were removed to reduce data size
+- &quot;Column Quality&quot; was used to check for errors
+- Dimensional and fact tables are segregated in folders
 
- 
-                                              Data Model
- 
+Data Modelling
+
+- Star Schema implemented
+- Many to Many relationships are avoided
+- Cross filtering is avoided
+- Inactive relationships are used using DAX
+- Unused tables are hidden
+- Columns within a table are grouped into a folder
+
+![](RackMultipart20220306-4-10ddf1g_html_f35a37057439dac7.png)
+
+Data Model
+
+![](RackMultipart20220306-4-10ddf1g_html_7caef3124d3d3d6f.png)
+
 Folder Structure
 
-# DAX
-•	Variables are implemented to reduce the query time
-•	DAX is formatted using a website from SQLBI daxformatter.com
-•	Important DAX used
-o	PARALLELPERIOD()
-o	USERELATIONSHIP()
-o	FILTER()
-o	SELECTEDVALUE()
-o	DIVIDE()
-o	COMBINEVALUES()
-o	CALCULATETABLE()
-o	LOOKUPVALUE()
-•	Legitimacy of ‘complex’ measures were checked using matrix first
- 
-                                         DAX Formatting 
+DAX
+
+- Variables are implemented to reduce the query time
+- DAX is formatted using a website from SQLBI daxformatter.com
+- Important DAX used
+  - PARALLELPERIOD()
+  - USERELATIONSHIP()
+  - FILTER()
+  - SELECTEDVALUE()
+  - DIVIDE()
+  - COMBINEVALUES()
+  - CALCULATETABLE()
+  - LOOKUPVALUE()
+- Legitimacy of &#39;complex&#39; measures were checked using matrix first
+
+![](RackMultipart20220306-4-10ddf1g_html_821da9496e7a72b1.png)
+
+DAX Formatting

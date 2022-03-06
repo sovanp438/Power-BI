@@ -8,6 +8,15 @@
   - Revenue
   - Revenue per Team Member
 
+## Overall KPI
+
+![alt text](https://github.com/sovanp438/Power-BI/blob/540c56eb13e314bcad1fba05076c0324968b099b/Images/Report_1.png "")
+
+
+## Revenue
+
+![alt text](https://github.com/sovanp438/Power-BI/blob/540c56eb13e314bcad1fba05076c0324968b099b/Images/Report_2.png "")
+
 # Approach
 
 - An excel based tracker built and was shared with each team member

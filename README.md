@@ -1,6 +1,6 @@
 # Power-BI
 
-Problem Statement 
+#Problem Statement 
 •	To track the KPIs of a 40-member team
 •	Parameters
 o	OTD: On Time Delivery
@@ -8,7 +8,8 @@ o	FTR: First Time Right
 o	Effort Variance
 o	Revenue
 o	Revenue per Team Member
-Approach
+
+#Approach
 •	An excel based tracker built and was shared with each team member
 •	The excel tracked the following
 o	Tasks (with a bill rate and location linked to it)
@@ -19,7 +20,7 @@ o	Employee Details
 •	The data was cleaned and modelled in a Star Schema
 •	The report was built with intuitive visual and was used by the management the performance of the project and its members
 
-Data Transformation 
+#Data Transformation 
 •	The file locations are parametrized
 •	Correct data types are used in each column to facilitate better compression
 •	Date table was created in Power Query to ensure better performance
@@ -27,7 +28,8 @@ o	Calendar Table
 •	Non-Functional Columns were removed to reduce data size
 •	“Column Quality” was used to check for errors
 •	Dimensional and fact tables are segregated in folders 
-Data Modelling
+
+#Data Modelling
 •	Star Schema implemented
 •	Many to Many relationships are avoided
 •	Cross filtering is avoided
@@ -40,7 +42,7 @@ Data Modelling
  
 Folder Structure
 
-DAX
+#DAX
 •	Variables are implemented to reduce the query time
 •	DAX is formatted using a website from SQLBI daxformatter.com
 •	Important DAX used

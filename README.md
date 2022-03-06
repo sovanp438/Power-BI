@@ -45,9 +45,14 @@
                                                                       ----------
 ![alt text](https://github.com/sovanp438/Power-BI/blob/8b040536792c2c0ecb6b19be2481ba79897b1340/Images/Data_Model.png "Logo Title Text 1")
 
-![](RackMultipart20220306-4-bcm388_html_7caef3124d3d3d6f.png)
 
-Folder Structure
+
+
+
+                                                                    Folder Structure
+                                                                    ----------------
+![alt text](https://github.com/sovanp438/Power-BI/blob/6408d8d628536ed062e4e8abb995c478dce8bb14/Images/Folder_Structure.png "")
+
 
 # DAX
 
@@ -64,6 +69,8 @@ Folder Structure
   - LOOKUPVALUE()
 - Legitimacy of &#39;complex&#39; measures were checked using matrix first
 
-![](RackMultipart20220306-4-bcm388_html_821da9496e7a72b1.png)
 
-# DAX Formatting
+
+                                                                     DAX Dormatting
+                                                                    ----------------
+![alt text](https://github.com/sovanp438/Power-BI/blob/6408d8d628536ed062e4e8abb995c478dce8bb14/Images/DAX%20Formatting.png "")

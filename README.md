@@ -2,8 +2,7 @@
 
 - To track the KPIs of a 40+ member team
 - Parameters
-  - OTD: On Time Delivery
-  - FTR: First Time Right
+  - Timely & Defect-free Delivery
   - Effort Variance
   - Revenue
   - Revenue per Team Member etc.

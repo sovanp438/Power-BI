@@ -52,16 +52,16 @@
 
 
 
-                                                                      Data Model
-                                                                      ----------
+                                                              Data Model
+                                                              ----------
 ![alt text](https://github.com/sovanp438/Power-BI/blob/8b040536792c2c0ecb6b19be2481ba79897b1340/Images/Data_Model.png "Logo Title Text 1")
 
 
 
 
 
-                                                                    Folder Structure
-                                                                    ----------------
+                                                           Folder Structure
+                                                           ----------------
 ![alt text](https://github.com/sovanp438/Power-BI/blob/6408d8d628536ed062e4e8abb995c478dce8bb14/Images/Folder_Structure.png "")
 
 
@@ -82,6 +82,6 @@
 
 
 
-                                                                     DAX Formatting
-                                                                    ----------------
+                                                          DAX Formatting
+                                                         ----------------
 ![alt text](https://github.com/sovanp438/Power-BI/blob/6408d8d628536ed062e4e8abb995c478dce8bb14/Images/DAX%20Formatting.png "")

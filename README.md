@@ -14,7 +14,7 @@
 
 ## Revenue
 
-![alt text](https://github.com/sovanp438/Power-BI/blob/540c56eb13e314bcad1fba05076c0324968b099b/Images/Report_2.png "")
+![alt text](https://github.com/sovanp438/Power-BI/blob/5b82470980e9186bbc77448563492b81875ecfa2/Images/Report_2.png "")
 
 # Approach
 

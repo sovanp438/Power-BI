@@ -9,7 +9,7 @@
 
 ## Overall KPI
 
-![alt text](https://github.com/sovanp438/Power-BI/blob/540c56eb13e314bcad1fba05076c0324968b099b/Images/Report_1.png "")
+![alt text](https://github.com/sovanp438/Power-BI/blob/30f31e99e5b9b5b9e83dcd599ada3040e60f7db3/Images/Report_1.png "")
 
 
 ## Revenue
